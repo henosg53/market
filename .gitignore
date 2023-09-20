@@ -1,0 +1,7 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+
+media/photos/*
+db.sqlite3
+
